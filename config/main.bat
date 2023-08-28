@@ -1,0 +1,1 @@
+ls_mainsvr.exe -c ls_mainsvr.ini
